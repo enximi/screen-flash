@@ -24,6 +24,7 @@
 
 - 仅支持 Windows
 - 依赖 Win32 API：`CreateWindowExW`、`SetLayeredWindowAttributes`、`RegisterClassW` 等
+- 当前还没有其他平台的实现，欢迎贡献 macOS、Linux 等平台的支持
 
 ## 作为库使用
 
