@@ -63,7 +63,7 @@ Combined demo of:
 - default effect with white color
 - rainbow effect
 
-![screen-flash demo](./assets/demo/screen-flash-demo.gif)
+![screen-flash demo](https://raw.githubusercontent.com/enximi/screen-flash/main/assets/demo/screen-flash-demo.gif)
 
 ## Core API
 

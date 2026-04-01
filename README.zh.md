@@ -63,7 +63,7 @@ fn main() -> windows::core::Result<()> {
 - 白色的默认闪烁
 - 彩虹闪烁
 
-![screen-flash 演示](./assets/demo/screen-flash-demo.gif)
+![screen-flash 演示](https://raw.githubusercontent.com/enximi/screen-flash/main/assets/demo/screen-flash-demo.gif)
 
 ## 核心接口
 

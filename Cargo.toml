@@ -9,6 +9,7 @@ readme = "README.md"
 keywords = ["windows", "screen", "flash", "overlay", "cli"]
 categories = ["command-line-utilities", "gui", "os::windows-apis"]
 license = "MIT OR Apache-2.0"
+exclude = ["assets/demo/*.gif"]
 
 [dependencies]
 clap = { version = "4.5.38", features = ["derive"] }
