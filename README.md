@@ -55,6 +55,16 @@ fn main() -> windows::core::Result<()> {
 }
 ```
 
+## Demo
+
+Combined demo of:
+
+- default effect with black color
+- default effect with white color
+- rainbow effect
+
+![screen-flash demo](./assets/demo/screen-flash-demo.gif)
+
 ## Core API
 
 Library entry point:

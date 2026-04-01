@@ -55,6 +55,16 @@ fn main() -> windows::core::Result<()> {
 }
 ```
 
+## 演示
+
+这个动图目前包含了三种效果演示：
+
+- 黑色的默认闪烁
+- 白色的默认闪烁
+- 彩虹闪烁
+
+![screen-flash 演示](./assets/demo/screen-flash-demo.gif)
+
 ## 核心接口
 
 库入口：
