@@ -1,6 +1,6 @@
 [package]
 name = "screen-flash"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A Windows screen flash library and CLI."
 repository = "https://github.com/enximi/screen-flash"
